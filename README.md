@@ -1,4 +1,3 @@
-![image](https://github.com/CUQS/object_detection_iccv2023/assets/46483439/2b702bd8-497c-470a-8308-63868c425be8)# object_detection_iccv2023
 
 640: A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism [(](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)
 
