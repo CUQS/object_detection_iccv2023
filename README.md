@@ -1,4 +1,4 @@
-# object_detection_iccv2023
+![image](https://github.com/CUQS/object_detection_iccv2023/assets/46483439/2b702bd8-497c-470a-8308-63868c425be8)# object_detection_iccv2023
 
 640: A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism [(](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.html)
 
@@ -120,3 +120,10 @@
 
 785: MULLER: Multilayer Laplacian Resizer for Vision [(](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_MULLER_Multilayer_Laplacian_Resizer_for_Vision_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_MULLER_Multilayer_Laplacian_Resizer_for_Vision_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_MULLER_Multilayer_Laplacian_Resizer_for_Vision_ICCV_2023_paper.html)
 
+786: Semantic Information in Contrastive Learning [(](https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Semantic_Information_in_Contrastive_Learning_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Semantic_Information_in_Contrastive_Learning_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Semantic_Information_in_Contrastive_Learning_ICCV_2023_paper.html)
+
+790: Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement [(](https://openaccess.thecvf.com/content/ICCV2023/html/Faghri_Reinforce_Data_Multiply_Impact_Improved_Model_Accuracy_and_Robustness_with_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Faghri_Reinforce_Data_Multiply_Impact_Improved_Model_Accuracy_and_Robustness_with_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Faghri_Reinforce_Data_Multiply_Impact_Improved_Model_Accuracy_and_Robustness_with_ICCV_2023_paper.html)
+
+793: DiffusionDet: Diffusion Model for Object Detection [(url)](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_DiffusionDet_Diffusion_Model_for_Object_Detection_ICCV_2023_paper.html)
+
+801: RLIPv2: Fast Scaling of Relational Language-Image Pre-Training [(](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_RLIPv2_Fast_Scaling_of_Relational_Language-Image_Pre-Training_ICCV_2023_paper.html)[url](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_RLIPv2_Fast_Scaling_of_Relational_Language-Image_Pre-Training_ICCV_2023_paper.html)[)](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_RLIPv2_Fast_Scaling_of_Relational_Language-Image_Pre-Training_ICCV_2023_paper.html)
